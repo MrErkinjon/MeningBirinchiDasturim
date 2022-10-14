@@ -1,5 +1,5 @@
 # MeningBirinchiDasturim
 #TUIT FF
-#Calculator
+# Calculator
 <br/>
 <img src="/results/screenshot.png" width="200" height="400">
